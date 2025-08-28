@@ -1,6 +1,7 @@
 # SimpleShare
 
-**Version:** 1.0.1-Android and 1.0.0-Windows
+**Version Windows:** 1.0.0
+**Version Android:** 1.0.1
 **Author:** ZBaldi
 
 ## Description
@@ -13,4 +14,5 @@ Users can choose between transparent (unencrypted) or protected (encrypted) data
 ---
 
 Thank you for using SimpleShare!
+
 
